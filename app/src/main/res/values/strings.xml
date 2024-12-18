@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UrbanStep</string>
+    <string name="txt_register">Registe-se</string>
+    <string name="txt_name">Nome</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_pss">Password</string>
+    <string name="txt_registar">Registar</string>
+    <string name="txt_confirmPassword">Confirmar Password</string>
+    <string name="txt_login">Login</string>
+    <string name="btn_login">Login</string>
+</resources>
