@@ -8,4 +8,7 @@
     <string name="txt_confirmPassword">Confirmar Password</string>
     <string name="txt_login">Login</string>
     <string name="btn_login">Login</string>
+    <string name="txt_optionsBtn">Mais Opções</string>
+    <string name="txt_titulo">Título</string>
+    <string name="txt_price">R$ 0,00</string>
 </resources>
