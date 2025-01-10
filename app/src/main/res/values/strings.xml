@@ -11,4 +11,8 @@
     <string name="txt_optionsBtn">Mais Opções</string>
     <string name="txt_titulo">Título</string>
     <string name="txt_price">R$ 0,00</string>
+    <string name="txt_todos">Todos</string>
+    <string name="txt_masc">Masculino</string>
+    <string name="txt_fem">Feminino</string>
+    <string name="txt_crianca">Criança</string>
 </resources>
