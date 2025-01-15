@@ -15,4 +15,10 @@
     <string name="txt_masc">Masculino</string>
     <string name="txt_fem">Feminino</string>
     <string name="txt_crianca">Criança</string>
+    <string name="txt_Username">Username</string>
+    <string name="txt_Nome">Nome</string>
+    <string name="txt_morada">morada</string>
+    <string name="txt_nContribuinte">nContribuinte</string>
+    <string name="txt_Morada">Morada</string>
+    <string name="txt_NumeroContribuinte">Numero Contribuinte</string>
 </resources>

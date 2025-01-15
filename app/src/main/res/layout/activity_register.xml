@@ -12,9 +12,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/logo" />
+
     <Space
         android:layout_width="match_parent"
-        android:layout_height="30dp"/>
+        android:layout_height="18dp" />
 
     <TextView
         android:layout_width="match_parent"
@@ -26,10 +27,19 @@
         android:textStyle="bold" />
 
     <EditText
-        android:id="@+id/etName"
+        android:id="@+id/etUsername"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/txt_name"
+        android:hint="@string/txt_Username"
+        android:inputType="textPersonName"
+        android:padding="8dp" />
+
+    <EditText
+        android:id="@+id/etNome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="@string/txt_Nome"
         android:inputType="textPersonName"
         android:padding="8dp" />
 
@@ -40,6 +50,24 @@
         android:layout_marginTop="8dp"
         android:hint="@string/txt_email"
         android:inputType="textEmailAddress"
+        android:padding="8dp" />
+
+    <EditText
+        android:id="@+id/etMorada"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="@string/txt_Morada"
+        android:inputType="textPersonName"
+        android:padding="8dp" />
+
+    <EditText
+        android:id="@+id/etNContribuinte"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="@string/txt_NumeroContribuinte"
+        android:inputType="number"
         android:padding="8dp" />
 
     <EditText
